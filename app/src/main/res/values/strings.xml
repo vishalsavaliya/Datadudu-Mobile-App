@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Data Dudu</string>
+    <string name="str_username">Username</string>
+    <string name="str_password">Password</string>
+    <string name="str_conpassword">Confirm Password</string>
+    <string name="str_login">Login</string>
+    <string name="str_forgotpassword">Forgot Password?</string>
+    <string name="str_loginal">Already a member ?</string>
+    <string name="str_loginnow">Login Now</string>
+    <string name="str_signup">Sign Up</string>
+    <string name="str_Email">Email</string>
+    <string name="str_AddDevice">Add Device</string>
+    <string name="str_Deviceman">Device Man</string>
+    <string name="str_instr">Instructions</string>
+    <string name="str_scan">Scan</string>
+    <string name="str_next">Next</string>
+    <string name="str_save">Save</string>
+
+
+    <string-array name="TimeZone">
+        <item>Timezone</item>
+        <item>Timezone</item>
+        <item>Timezone</item>
+    </string-array>
+
+    <string-array name="WorkProfile">
+        <item>Work Profile</item>
+        <item>Home Profile</item>
+        <item>Work Profile</item>
+    </string-array>
+    <string-array name="EncryptType">
+        <item>WPA/WPA2</item>
+        <item>WPA</item>
+        <item>WPA2</item>
+    </string-array>
+
+
+</resources>
